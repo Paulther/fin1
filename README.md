@@ -1,2 +1,2 @@
 #fin1
-![Ising model](ising-triangular.png "Specific heat")
+![Pi Approximation](pi-poly-u.png "Error of Pi algoritihim")
